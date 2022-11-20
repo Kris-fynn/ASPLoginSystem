@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ASPLoginSystem</name>
+    </assembly>
+    <members>
+        <member name="F:ASPLoginSystem.Users.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.lblUsername">
+            <summary>
+            lblUsername control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.GridView1">
+            <summary>
+            GridView1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.btnAddUsers">
+            <summary>
+            btnAddUsers control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.btnEdit">
+            <summary>
+            btnEdit control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.btnDelete">
+            <summary>
+            btnDelete control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.LabelDropdown">
+            <summary>
+            LabelDropdown control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.DropDownListUsers">
+            <summary>
+            DropDownListUsers control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.lblNewName">
+            <summary>
+            lblNewName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.txtNewName">
+            <summary>
+            txtNewName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.lblPassword">
+            <summary>
+            lblPassword control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.txtNewPass">
+            <summary>
+            txtNewPass control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.Label2">
+            <summary>
+            Label2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.RadioButtonList1">
+            <summary>
+            RadioButtonList1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.Users.btnAdd">
+            <summary>
+            btnAdd control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.WebForm1.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.WebForm1.TextUsername">
+            <summary>
+            TextUsername control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.WebForm1.TextPassword">
+            <summary>
+            TextPassword control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.WebForm1.MsgLabel">
+            <summary>
+            MsgLabel control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:ASPLoginSystem.WebForm1.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+    </members>
+</doc>
