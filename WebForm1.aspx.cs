@@ -11,7 +11,7 @@ namespace ASPLoginSystem
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
-        SqlConnection SQLconn = new SqlConnection("Data Source=MININT-R3V2NAL; Initial Catalog=ASPLogin; Integrated Security=True");
+        SqlConnection SQLconn = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=ASPLogin; Integrated Security=True");
         protected void Page_Load(object sender, EventArgs e)
         {
 

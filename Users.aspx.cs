@@ -14,7 +14,7 @@ namespace ASPLoginSystem
         
         protected void Page_Load(object sender, EventArgs e)
         {
-            lblUsername.Text = Session["username"].ToString()+", "+ Session["role"].ToString();
+            lblUsername.Text = Session["userName"].ToString()+", "+ Session["role"].ToString();
             if (Session["role"].ToString() == "Administrator")
             {
                 btnAddUsers.Enabled = true;
@@ -66,7 +66,7 @@ namespace ASPLoginSystem
             password = txtNewPass.Text.ToString();
             role = RadioButtonList1.SelectedItem.Text;
 
-            SqlConnection SQLconn = new SqlConnection("Data Source=DESKTOP-PV4SGFP; Initial Catalog=ASPLogin; Integrated Security=True");
+            SqlConnection SQLconn = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=ASPLogin; Integrated Security=True");
             string sql = "INSERT INTO useraccount(UserName,Password,UserType) VALUES('"+name+"','"+password+"','"+role+"')";
             SqlCommand cmd = new SqlCommand(sql, SQLconn);
             SQLconn.Open();
@@ -79,7 +79,7 @@ namespace ASPLoginSystem
         {
             DropDownListUsers.Visible = true;
             LabelDropdown.Visible = true;
-            SqlConnection SQLconn = new SqlConnection("Data Source=DESKTOP-PV4SGFP; Initial Catalog=ASPLogin; Integrated Security=True");
+            SqlConnection SQLconn = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=ASPLogin; Integrated Security=True");
             SqlDataAdapter SQLAdapter = new SqlDataAdapter("SELECT * FROM useraccount", SQLconn);
 
             DataTable DT = new DataTable();
